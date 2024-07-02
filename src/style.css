@@ -1,1 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  height: 100%;
+}
+#tit {
+  display: flex;
+  width: fit-content;
+  margin: auto;
+}
+#container {
+  display: inline;
+  position: relative;
+  top: 300px;
+  margin: 300px auto 0;
+}
