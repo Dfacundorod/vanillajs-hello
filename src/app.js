@@ -32,3 +32,4 @@ window.onload = function() {
     when[whenRand];
   excuseH1.textContent = newexcuse;
 };
+ 
